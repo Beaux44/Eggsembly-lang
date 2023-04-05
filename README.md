@@ -6,3 +6,9 @@ Here is an example of some very early output
 |---|---|
 |![working eggsembly source code](workingsource.png)|![output of compiler given working code](workingoutput.png)|
 |![broken eggsembly source code](brokensource.png)|![output of compiler given working code](brokenoutput.png)|
+
+---
+
+Here are some ideas for the future:
+
+1. Syscall access?

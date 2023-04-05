@@ -1,5 +1,5 @@
 # Eggsembly-lang
-A soon to be (very minusculy optimizing) compiler and VM for the Eggsembly language
+A soon to be (very minusculy) optimizing compiler and VM for the Eggsembly language
 
 Here is an example of some very early output 
 |Code|Output|
